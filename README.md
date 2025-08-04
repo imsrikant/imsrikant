@@ -119,7 +119,7 @@
 ## 🚨 Waka Stats:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-604%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-606%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -128,8 +128,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 115.6 kB Used in GitHub's Storage 
- > 
-> 🏆 1,590 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -142,13 +140,13 @@
 ```text
 🌞 Morning                6309 commits        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   28.03 % 
 🌆 Daytime                7581 commits        ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   33.68 % 
-🌃 Evening                6293 commits        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.96 % 
+🌃 Evening                6295 commits        ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.97 % 
 🌙 Night                  2323 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.32 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   4274 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.99 % 
+Monday                   4276 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   19.00 % 
 Tuesday                  3472 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.43 % 
 Wednesday                3356 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.91 % 
 Thursday                 2708 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   12.03 % 
@@ -193,7 +191,7 @@ Java                     1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 ![Lines of Code chart](https://raw.githubusercontent.com/imsrikant/imsrikant/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2025 15:20:58 UTC
+ Last Updated on 04/08/2025 18:23:50 UTC
 <!--END_SECTION:waka-->
 
 ## :snake::
